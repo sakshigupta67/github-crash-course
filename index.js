@@ -9,7 +9,5 @@ function sayName(){
 
 const address = "hyderabad"
 
-function isAbove18(){
-    return age >= 18
-}
+
 
