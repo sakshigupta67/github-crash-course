@@ -20,3 +20,11 @@ function findMax(a, b){
 function isEven(num){
     return num % 2 === 0
 }
+
+function square(num){
+    return num * num
+}
+
+function say(){
+    console.log('hello')
+}
