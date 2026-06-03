@@ -24,3 +24,7 @@ function isEven(num){
 function square(num){
     return num * num
 }
+
+function say(){
+    console.log('hello')
+}
