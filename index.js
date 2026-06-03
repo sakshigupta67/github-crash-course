@@ -16,3 +16,7 @@ function calculateArea(radius){
 function findMax(a, b){
     return a > b ? a : b
 }
+
+function isEven(num){
+    return num % 2 === 0
+}
