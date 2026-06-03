@@ -9,3 +9,6 @@ function greet(){
     console.log("hello")
 }
 
+function calculateArea(radius){
+    return Math.PI * radius * radius
+}
