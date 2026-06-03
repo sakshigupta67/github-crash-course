@@ -10,3 +10,7 @@ function keepEven(num){
     return num % 2 === 0
 }
 
+function reverseString(str){
+    return str.split('').reverse().join('')
+}
+
