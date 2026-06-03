@@ -12,3 +12,7 @@ function greet(){
 function calculateArea(radius){
     return Math.PI * radius * radius
 }
+
+function findMax(a, b){
+    return a > b ? a : b
+}
